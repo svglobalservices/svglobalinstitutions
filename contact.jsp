@@ -31,12 +31,11 @@
          </div>
          <div class="col-lg-4 col-md-4 col-sm-4">
            <div class="contact_address wow fadeInRight">
-             <h3>Address</h3>
+             <h3>Patancheru Branch</h3>
              <div class="address_group">
-               <p>401,4thfloor,west block, Archanaarcade, secbad, Hyderabad, TS 500003, India
-
+           <p>   #101,102 opp.busstand, patancheru,  sangareddy, hyd, 502319
 </p>
-               <p>Phone: +91 7995586120, +91 7995586122</p>
+               <p>Phone: +91 7799990965,+91 7799990964,+91 8297370000</p>
                <p>Email:info@svglobalinstitutions.com</p>
              </div>
              <div class="address_group">
