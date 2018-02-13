@@ -11,7 +11,7 @@
                 <li>
                   <img src="img/slider/2.jpg" alt="img">
                    <div class="slider_caption">
-                    <h2>Largest & Beautiful Institution</h2>
+                    <h2 style="color:blue">WELCOME TO SV GLOBAL INSTITUTIONS</h2>
                     <p>Learning is a lifelong process that extends beyond the classroom. <br>
  So, why restrict yourself to traditional settings?<br></p>
                     <a class="slider_btn" href="#">Know More</a>
