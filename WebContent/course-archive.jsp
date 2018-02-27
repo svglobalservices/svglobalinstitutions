@@ -101,49 +101,6 @@
                     </div>
                   </div>
                 </div> 
-                <!-- End single course -->
-                <!-- start single course -->
-                <!-- <div class="col-lg-6 col-md-6 col-sm-6">
-                  <div class="single_course wow fadeInUp">
-                    <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
-                      <div class="mask">                         
-                        <a href="course-single.html" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="course-single.html">Introduction To Matrix</a></h3>
-                    <p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                    </div>
-                    <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>
-                  </div>
-                </div> -->
-                <!-- End single course -->
-                <!-- start single course -->
-               <!--  <div class="col-lg-6 col-md-6 col-sm-6">
-                  <div class="single_course wow fadeInUp">
-                    <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
-                      <div class="mask">                         
-                        <a href="course-single.html" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="course-single.html">Introduction To Matrix</a></h3>
-                    <p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                    </div>
-                    <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>
-                  </div>
-                </div> -->
-                <!-- End single course -->
               </div>
               <!-- start previous & next button -->
               <div class="single_blog_prevnext">
@@ -159,18 +116,23 @@
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
               <div class="single_sidebar">
-                <h2>Events <span class="fa fa-angle-double-right"></span></h2>
+                <h2>News <span class="fa fa-angle-double-right"></span></h2>
+                 <!-- Tab panes -->
+            <div class="tab-content">
+              <!-- Start news tab content -->
+                 <div class="tab-pane fade in active" id="news"> 
                 <ul class="news_tab">
                   <li>
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="img/sv/SvLogo.PNG" class="media-object">
                         </a>
                       </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
+                       <div class="media-body">
+                       <a href="course-archive-ecet.jsp" style="color:#33ccff">GET THE COACHING FOR
+                                    ECET New Batches are going to start Hurry up!!limited seating Only</a>
+                       <span class="feed_date">13.02.18</span>
                       </div>
                     </div>
                   </li>
@@ -178,12 +140,13 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="img/sv/SvLogo.PNG" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
+                       <a href="course-archive-polycet.jsp" style="color:#77b300">GET THE COACHING FOR
+                                    POLYCET Hurry up!!limited seating Only</a>
+                       <span class="feed_date">13.02.18</span>
                       </div>
                     </div>
                   </li>
@@ -191,12 +154,12 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="img/sv/SvLogo.PNG" class="media-object">
                         </a>
                       </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
+                       <div class="media-body">
+                       <a href="course-archive-Admissions.jsp" style="color:#a3297a">ECET, EAMCET and PLOYCET Admissions </a>
+                       <span class="feed_date">13.02.18</span>
                       </div>
                     </div>
                   </li>                  
@@ -206,12 +169,11 @@
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Quick Links <span class="fa fa-angle-double-right"></span></h2>
-                <ul>
-                  <li><a href="#">Link 1</a></li>
-                  <li><a href="#">Link 2</a></li>
-                  <li><a href="#">Link 3</a></li>
-                  <li><a href="#">Link 4</a></li>
-                  <li><a href="#">Link 5</a></li>
+               <ul class="footer_widget_nav">
+                  <li><a href="#">ECET</a></li>
+                  <li><a href="#">CEEP</a></li>
+                  <li><a href="#">Backlogs</a></li>
+                  <li><a href="#">NEET</a></li>
                 </ul>
               </div>
               <!-- End single sidebar -->
@@ -221,6 +183,8 @@
                 <a class="side_add" href="#"><img src="img/side-add.jpg" alt="img"></a>
               </div>
               <!-- End single sidebar -->
+            </div>
+            </div>
             </div>
           </div>
           <!-- start course archive sidebar -->

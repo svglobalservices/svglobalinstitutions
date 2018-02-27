@@ -88,17 +88,30 @@
 							<li><a href="vision&mission.jsp">Vision&Mision</a></li>
 							<li><a href="AboutUs.jsp">AboutUs</a></li>
 							<li><a href="contact.jsp">Contact</a></li>
-							<li><a href="https://www.facebook.com/SVGlobalInstitutions/"
-								target="_blank"> <img src="img/sv/login-Fb-icon.png"></a></li>
-							<li><a href="https://twitter.com/sv_global" target="_blank">
-									<img src="img/sv/login-twit-icon.png">
-							</a></li>
-							<li><a
-								href="https://www.youtube.com/channel/UCj356HjN07DsiSP1wWK7u1w"
-								target="_blank"> <img src="img/sv/login-you-tube-icon.png"></a></li>
+							<li><a href="https://www.facebook.com/SVGlobalInstitutions/" target="_blank"> <img src="img/sv/login-Fb-icon.png"></a></li>
+							<li><a href="https://twitter.com/sv_global" target="_blank"><img src="img/sv/login-twit-icon.png"></a></li>
+							<li><a href="https://www.youtube.com/channel/UCj356HjN07DsiSP1wWK7u1w" target="_blank"> <img src="img/sv/login-you-tube-icon.png"></a></li>
 						</ul>
 					</div>
 					<!--/.nav-collapse -->
+					<!-- sub menu -->
+					
+					<!-- <div id="navbar" class="navbar-collapse collapse">
+              <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
+           
+                <li class="active"><a href="index.jsp"><b><font color="red">Project Works</font></b></a></li>
+                <li><a href="RankerStudents.jsp" ><b><font color="red">Reg& Backlog Coaching</font></b></a></li>
+                <li><a href="course-archive.jsp"><b><font color="red">Industrial Training</font></b></a></li>
+                <li class="navbar-default navbar-nav .open a navbar-default navbar-nav open a:focus navbar-default navbar-nav open  a:hover "><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a>
+                <ul >
+                <li ><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a></li>
+                <li><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a></li>
+                </ul></li>
+               <li><a href="home-tutions.jsp"><b><font color="red">Networking Training</font></b></a></li>
+                <li><a href="contact.jsp"><b><font color="red">Gallery</font></b></a></li>
+                </ul></div> -->
+					
+					<!-- sub menu close-->
 				</div>
 			</nav>
 		</div>

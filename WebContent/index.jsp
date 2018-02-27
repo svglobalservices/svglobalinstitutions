@@ -14,22 +14,6 @@
                   <img class="mySlides" src="img/sv/Capture1.PNG" alt="img">
                   <img class="mySlides" src="img/sv/class2.JPG" alt="img">
                    <img class="mySlides" src="img/sv/class3.JPG" alt="img">
-            
-                   <div id="navbar" class="navbar-collapse collapse">
-              <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-           
-                <li class="active"><a href="index.jsp"><b><font color="red">Project Works</font></b></a></li>
-                <li><a href="RankerStudents.jsp" ><b><font color="red">Reg& Backlog Coaching</font></b></a></li>
-                <li><a href="course-archive.jsp"><b><font color="red">Industrial Training</font></b></a></li>
-                <li class="navbar-default navbar-nav .open a navbar-default navbar-nav open a:focus navbar-default navbar-nav open  a:hover "><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a>
-                <ul >
-                <li ><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a></li>
-                <li><a href="scholarship.jsp"><b><font color="red">Admissions</font></b></a></li>
-                </ul></li>
-               <li><a href="home-tutions.jsp"><b><font color="red">Networking Training</font></b></a></li>
-                <li><a href="contact.jsp"><b><font color="red">Gallery</font></b></a></li>
-                </ul></div>
-             
                    <div class="slider_caption">
                     <h2 style="color:#e6e600">WELCOME TO SVGLOBAL INSTITUTIONS</h2>
                     <p style="color:#5cd6d6">Learning is a lifelong process that extends beyond the classroom. <br>
@@ -366,28 +350,28 @@ function carousel() {
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                  <div class="single_skill wow fadeInUp">
-                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff" ></div>
                     <h4>Repeate Learners</h4>                      
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"></div>
                     <h4>SV Academy Success Rate</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff"></div>
                     <h4>Student Engagement</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"></div>
                     <h4>Certified Courses</h4>
                   </div>
                 </div>
