@@ -43,7 +43,19 @@
 <link id="switcher" href="css/themes/default-theme.css" rel="stylesheet">
 <!-- Main structure css file -->
 <link href="css/style.css" rel="stylesheet">
-
+<style type="text/css">
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 100px;
+  display: none;
+}
+ul li ul li { 
+font-color: #FFF;
+  background: #333; 
+  /* display: block; */ 
+}
+</style>
 <!-- Google fonts -->
 <link href='http://fonts.googleapis.com/css?family=Merriweather'
 	rel='stylesheet' type='text/css'>
@@ -84,7 +96,12 @@
 						<ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
 							<li class="active"><a href="index.jsp">Home</a></li>
 							<li><a href="RankerStudents.jsp">Rankers</a></li>
-							<li><a href="course-archive.jsp">Batches</a></li>
+							<li><a href="course-archive.jsp">Batches</a>
+							<ul>
+							<li><a href="index.jsp"><font color="white">Home</font></a></li>
+							<li><a href="RankerStudents.jsp"><font color="white">Rankers</font></a></li>
+							</ul>
+							</li>
 							<li><a href="vision&mission.jsp">Vision&Mision</a></li>
 							<li><a href="AboutUs.jsp">AboutUs</a></li>
 							<li><a href="contact.jsp">Contact</a></li>
@@ -94,6 +111,8 @@
 						</ul>
 					</div>
 					<!--/.nav-collapse -->
+					
+					
 					<!-- sub menu -->
 					
 					<!-- <div id="navbar" class="navbar-collapse collapse">

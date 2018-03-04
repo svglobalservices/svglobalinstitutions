@@ -7,6 +7,11 @@
           <div class="slider_area">
             <!-- Start super slider -->
             <div id="slides">
+            <marquee style="color:#009900; margin-top:10px; font-size:16px;" scrollamount="3" scrolldelay="2" direction="left" onmouseover="this.stop()" onmouseout="this.start()"><a target="_blank" href="http://www.vidyasamachar.com/">
+<img src="http://vidyasamachar.com/wp-content/uploads/2016/04/li.gif">
+&nbsp; Participate NEET 2017 Mock Tests Conducted by WisdomOverseas </a>&nbsp;<a target="_blank" href="http://www.vidyasamachar.com/">
+<img src="http://vidyasamachar.com/wp-content/uploads/2016/04/li.gif">
+&nbsp; Participate in Talent Test and Get Fee Discounts &amp; Free Education</a></marquee>
               <ul class="slides-container">                          
                 <li>
                   <img class="mySlides" src="img/sv/SvGlobal.PNG" alt="img">
@@ -18,8 +23,8 @@
                     <h2 style="color:#e6e600">WELCOME TO SVGLOBAL INSTITUTIONS</h2>
                     <p style="color:#5cd6d6">Learning is a lifelong process that extends beyond the classroom. <br>
  So, why restrict yourself to traditional settings?<br></p>
- 
                   </div>
+                  
                   <script>
 var myIndex = 0;
 carousel();
